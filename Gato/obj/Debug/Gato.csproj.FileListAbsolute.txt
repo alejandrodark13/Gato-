@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\bin\Debug\Gato.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\bin\Debug\Gato.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\bin\Debug\Gato.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.pdb
+C:\Users\Usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.Nombres.resources
