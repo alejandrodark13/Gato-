@@ -8,13 +8,3 @@ c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.
 c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.exe
 c:\users\usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.pdb
 C:\Users\Usuario\documents\visual studio 2015\Projects\Gato\Gato\obj\Debug\Gato.Nombres.resources
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\bin\Debug\Gato.exe.config
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\obj\Debug\Gato.exe
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\obj\Debug\Gato.pdb
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\bin\Debug\Gato.exe
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\bin\Debug\Gato.pdb
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\obj\Debug\Gato.csprojResolveAssemblyReference.cache
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\obj\Debug\Gato.Form1.resources
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\obj\Debug\Gato.Nombres.resources
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\obj\Debug\Gato.Properties.Resources.resources
-C:\Users\Usuario\Documents\GitHub\Gato-\Gato\obj\Debug\Gato.csproj.GenerateResource.Cache

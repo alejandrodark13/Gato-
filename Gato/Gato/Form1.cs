@@ -96,10 +96,8 @@ namespace Gato
                     }
                 }
             }
-            try { 
+
             move.PerformClick();
-            }
-            catch { }
         }
 
         private Button EspaciosLibres()
